@@ -34,7 +34,7 @@ Mobile
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/Y-ashbhatt/Stats-preview-card-component-main)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://y-ashbhatt.github.io/Stats-preview-card-component-main/))
 
 ## My process
 
